@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PholderPhoto</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="select_folder">select Folder</string>
+    <string name="save">save</string>
+    <string name="hint">hint</string>
+    <string name="prefferenceFileKey">PholderFottSettings</string>
+</resources>
